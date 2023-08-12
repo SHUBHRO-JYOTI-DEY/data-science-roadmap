@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://zenml.io">
+  <a href="https://antern.co">
     <img src="assets/anternsvg.svg" alt="Logo" width="400">
   </a>
 
